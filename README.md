@@ -1,7 +1,7 @@
 # Library-Management
 Undergrad Project. Upload for personal use
-Original Contributors
-  *An Thanh Ngo
-  *Bobby Stebbins III
-  *Brandon W Swanwick
-  *Jimenez Jr
+Original Contributors<br>
+  *An Thanh Ngo<br>
+  *Bobby Stebbins III<br>
+  *Brandon W Swanwick<br>
+  *Jimenez Jr<br>
